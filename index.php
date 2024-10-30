@@ -1,5 +1,5 @@
 <?php
 
-echo "This is my Azure app with Github repo!";
+echo "This is my Azure app with Github repo! Now ive made some changes";
 
 ?>
