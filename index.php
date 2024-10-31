@@ -7,6 +7,8 @@
 </head>
 <body>
     <h1>This is a test website</h1>
+
+    <h2>Page one</h2>
     <?php 
         echo "hello!"
     ?>
