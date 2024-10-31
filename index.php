@@ -8,6 +8,8 @@
 <body>
     <h1>This is an awesome website</h1>
 
+    <h3>This is a subtitle</h3>
+
     <h2>Page one</h2>
     <?php 
         echo "hello!"
