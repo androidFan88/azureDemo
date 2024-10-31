@@ -6,7 +6,7 @@
     <title>Our test website</title>
 </head>
 <body>
-    <h1>This is a test website</h1>
+    <h1>This is an awesome website</h1>
 
     <p>Another change to the website</p>
 
