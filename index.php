@@ -8,6 +8,8 @@
 <body>
     <h1>This is a test website</h1>
 
+    <p>Another change to the website</p>
+
     <h2>Page one</h2>
     <?php 
         echo "hello!"
